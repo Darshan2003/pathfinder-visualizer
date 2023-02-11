@@ -1,0 +1,3 @@
+- [ ] add help section in the navbar
+- [ ] add ability to control speed of the algorithm
+- [ ] separate out algorithm code with pygame code 
